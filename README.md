@@ -1,5 +1,5 @@
 # ICT105-Lemon-MVP
-Summer-Semester-long IT startup MVP project for ICT105 Fundamental Technology Entrepreneurship. 
+Semester-long IT startup MVP project for ICT105 Fundamental Technology Entrepreneurship.
 # Project Venture Workspace
 
 ## Course Information
@@ -14,10 +14,10 @@ Summer-Semester-long IT startup MVP project for ICT105 Fundamental Technology En
 ## Team Members and Roles
 | Name | Role | Responsibility |
 |---|---|---|
-| [Mr. Kyaw Ye Lin] | Product Lead | Define problem, target users, and value proposition |
-| [Phollapat Rodchue] | Technical Lead | Manage repository and prototype feasibility |
-| [Tin May Lin] | UX/UI Lead + Documentation Lead | Design interface and maintain documentation |
-| [Phoochit Jantakam] | 
+| Crystal | Product Lead | Define problem, target users, and value proposition |
+| Phollapat Rodchue | Technical Lead | Manage repository and prototype feasibility |
+| Tin May Lin | UX/UI Lead  | Design interface |
+| Phoochit Jantakam | Documentation Lead | Maintain documentation |
 
 ## Initial Problem Area
 Our team is evaluating multiple friction areas across student-life logistics, campus tracking operations, and neighborhood community micro-economies.
@@ -42,13 +42,18 @@ We are targeting lightweight, responsive web app platforms incorporating real-ti
 - **screenshots/**: Visual validation records of the working application.
 - **pitch/**: The final slide presentations and investment pitch documents.
 
-## Weekly Progress Log
-| Lab | Main Activity | Output | Status |
-|---|---|---|---|
-| Lab 1 | Lab setup and idea log | Repository setup, team profile tracking, initial three-idea logbook | In progress |
+## Initial Problem Area
+Our team is focusing on resolving operational friction points within student logistics and campus tracking infrastructure. We are specifically targeting the fragmented nature of lost item reporting within high-density student facilities.
+
+## Target Users
+- Undergraduate university students who frequently lose baseline items.
+- Campus security staff and facility processing clerks managing incoming inventory items.
+
+## Selected IT Venture Direction
+Our team selected a campus lost-and-found reporting system. The target users are university students who lose personal items and currently search through unstructured chat groups or ask security staff manually. We selected this idea because it is highly useful, structurally feasible, and can be prototyped as an automated web-based indexing and discovery portal completely without physical IoT hardware, sensors, or complex infrastructure protection networks.
 
 ## Current Status
-In Lab 1, our team successfully set up a shared workspace repository mapping out our core technical domains. We assigned specific roles covering technical, UX, product, and documentation requirements. Furthermore, we structured three initial business concepts using the problem-user-solution matrix to kickstart validation.
+In Lab 02, our team evaluated six diverse web opportunity pipelines across different local environments, executed a robust NUF scoring qualification matrix, and successfully isolated our singular production startup pathway.
 
 ## Next Step
-In Lab 2, we will initiate opportunity scanning processes to vet our current business concepts against real-world user metrics and lock down a single production path.
+In Lab 03, we will deploy our formal customer discovery workflows, launch structured user problem interviews, and collect foundational user evidence from target campus respondents.
